@@ -1,0 +1,61 @@
+/*section article:nth-of-type(1) {*/
+section.rainier {
+  background-color: pink; 
+  font-family: Veranda, Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 25px;
+  line-height: 50px; 
+  padding: 5px;
+  border: 10px dotted black;
+  border-radius: 5px 10px 5px 10px;
+  }
+
+section.helens {
+  background-color: yellow; 
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+  color: gray;
+  font-size: 10px;
+  line-height: 20px; 
+  padding: 10px, 5px, 10px, 5px;
+  border: 5px solid green;
+  border-radius: 25px 5px 25px 5px;
+}
+
+section.hood {
+  background-color: orange; 
+  font-family: 'Lucinda Bright', Georgia, serif;
+  color: black;
+  font-size: 25px;
+  line-height: 35px; 
+  padding-right: 25%;
+  padding-left: 25%;
+  border: 12px groove blue;
+  border-radius: 45px 45px 45px 45px;
+}
+
+section.sisters{
+  background-color: gray; 
+  font-family: Coperplate, 'Copperplate Gothic Light', fantasy;
+  color: purple;
+  font-size: 5px;
+  line-height: 10px; 
+  padding-top: 25%;
+  padding-bottom: 25%;
+  border: 15px solid purple; 
+  border-radius: 5px 10px 5px 10px;
+}
+
+section.adams{
+  background-color: #7fff00; 
+  font-family: 'Lucinda Sans Typewriter', 'Lucinda Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+  color: #ff1493;
+  font-size: 25px;
+  line-height: 1em; 
+  padding: 15%;
+  border: 8px outset yellow;
+  border-radius: 50px 50px 50px 50px;
+}
+
+
+
+
